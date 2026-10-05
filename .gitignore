@@ -1,4 +1,6 @@
-node_modules/
+# Compiled and build artifacts
+__pycache__/
+*.pycnode_modules/
 .next/
 dist/
 build/
